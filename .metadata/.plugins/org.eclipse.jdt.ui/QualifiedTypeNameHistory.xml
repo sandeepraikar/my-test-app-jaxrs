@@ -7,4 +7,5 @@
 <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
 <fullyQualifiedTypeName name="javax.ws.rs.core.Application"/>
 <fullyQualifiedTypeName name="javax.ws.rs.ApplicationPath"/>
+<fullyQualifiedTypeName name="javax.inject.Singleton"/>
 </qualifiedTypeNameHistroy>
