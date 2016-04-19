@@ -1,0 +1,8 @@
+package edu.sraikar;
+
+import javax.ws.rs.core.Application;
+
+@Application("webapi")
+public class MyApp extends Application{
+
+}

@@ -1,0 +1,6 @@
+package edu.sraikar;
+
+@Path("test")
+public class MyResource {
+
+}

@@ -1,0 +1,11 @@
+package edu.sraikar;
+
+import javax.ws.rs.Path;
+
+@Path("test")
+public class MyResource {
+
+	public String testMethod(){
+		return "It workds!";
+	}
+}
